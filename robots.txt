@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://obabyet.github.io/sitemap
+Sitemap: https://obabyet.github.io/app/sitemap
+Sitemap: https://obabyet.github.io/assets/sitemap
+Sitemap: https://obabyet.github.io/css/sitemap
+Sitemap: https://obabyet.github.io/includes/sitemap
+Sitemap: https://obabyet.github.io/item/sitemap
+Sitemap: https://obabyet.github.io/src/sitemap
